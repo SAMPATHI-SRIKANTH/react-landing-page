@@ -1,0 +1,36 @@
+.acca-info {
+  text-align: center;
+}
+
+.acca-info h2 {
+  font-size: 24px;
+  margin-bottom: 30px;
+}
+
+.card-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.card {
+  width: 300px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #fff;
+  padding: 0;
+}
+
+.card-header,
+.card-footer {
+  background-color: blue;
+  color: white;
+  border-radius: 8px 8px 0 0;
+}
+
+.card-footer {
+  border-radius: 0 0 8px 8px;
+}
+
+.card-footer p {
+  margin: 0;
+}

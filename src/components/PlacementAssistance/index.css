@@ -1,0 +1,28 @@
+.placement-assistance {
+  background-color: #6579c9; /* Pink background */
+  padding: 50px;
+}
+
+.placement-assistance h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  text-align: center; /* Center align the heading */
+}
+
+.content {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: left; /* Align content to the left */
+}
+
+.content h3 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.content p {
+  font-size: 16px;
+  color: #333;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
